@@ -1,0 +1,40 @@
+.table_keren{
+    max-width: 900px;
+    border: 1px solid black;
+    padding: 10px;
+    overflow: auto;
+    margin: auto;
+    border-radius: 4px;
+}
+.table_admin {
+    max-width: 900px;
+    border: 1px solid black;
+    padding: 10px;
+    overflow: auto;
+    margin: auto;
+    border-radius: 4px;
+}
+.table_home{
+    width: 100%;
+    font-size: 16.5px;
+    border-collapse: collapse;
+}
+
+.table_ad_dlm{
+    width: 100%;
+    font-size: 16.5px;
+    border-collapse: collapse;
+}
+
+table thead{
+    background-color: steelblue;
+    color: white;
+}
+
+table thead th {
+    padding: 8px;
+}
+table th,
+table td {
+    border: 1px solid #000017;
+}
